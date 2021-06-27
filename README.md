@@ -84,9 +84,19 @@ O projeto não possui nenhum pré-requisito para funcionar.
 
 ### Instalação
 
-Não há nenhum processo específico para instalação.
+### Instalação
 
-A estrutura do projeto é bem simples e para ter acesso ao layout do template construído, é só abrir o arquivo index.html.
+1. Clone o repositório
+ ```sh
+ git clone https://github.com/lucas-castro-developer/cc-projeto-better-bootstrap.git
+ ```
+
+2. Instale as dependências
+ ```sh
+ npm install
+ ```
+
+3. A estrutura do projeto é bem simples e para ter acesso ao layout do template construído, é só abrir o arquivo index.html. 
 
 Seu navegador de preferência será aberto e o template renderizado.
 
