@@ -2,8 +2,8 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/lucas-castro-developer/cod3r-todo-app-react">
-    <img src="images/todo-app-1.png">
+  <a href="https://github.com/lucas-castro-developer/cc-projeto-better-bootstrap">
+    <img src="img/logo-example.png">
   </a>
 
   <h3 align="center">Projeto Better - Banco de imagens</h3>
@@ -41,9 +41,9 @@
 
 ## Sobre o projeto
 
-O projeto TodoApp é uma lista de tarefas dinâmica onde o usuário pode cadastrar uma nova tarefa, tornar a tarefa como concluída, excluir e pesquisar tarefas já cadastradas.
+O projeto Better é um template de banco de imagens desenvolvido a partir das tecnologias HTML, CSS, Javascript e com a ajuda do framework Bootstrap para estilização.
 
-Há a opção de voltar o estado da tarefa como não concluída.
+A estrutura do trabalho visa entregar algo semântico e acessível e que consegue adaptar sua estrutura para os múltiplos tamanhos de tela.
 
 Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop`:
 
