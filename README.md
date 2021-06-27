@@ -49,11 +49,21 @@ Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop
 
 **Mobile**
 
-<img src="images/todo-app-2.png">
+<img src="img/template-mobile-1.png">
+
+<img src="img/template-mobile-2.png">
+
+<img src="img/template-mobile-3.png">
+
+<img src="img/template-mobile-4.png">
 
 **Desktop**
 
-<img src="images/todo-app-1.png">
+<img src="img/template-desk-1.png">
+
+<img src="img/template-desk-2.png">
+
+<img src="img/template-desk-3.png">
 
 ### Construído com
 
